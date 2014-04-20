@@ -1,0 +1,10 @@
+2014-04-20 15:33:09 [ main:0 ] - [ INFO ] Course Home	D:\learning\java\6-092-january-iap-2010\6-092-january-iap-2010\contents\index.htm
+2014-04-20 15:33:09 [ main:1 ] - [ INFO ] assignments	D:\learning\java\6-092-january-iap-2010\6-092-january-iap-2010\contents\assignments\index.htm
+2014-04-20 15:33:09 [ main:1 ] - [ INFO ] lecture-notes	D:\learning\java\6-092-january-iap-2010\6-092-january-iap-2010\contents\lecture-notes\index.htm
+2014-04-20 15:33:09 [ main:1 ] - [ INFO ] related-resources	D:\learning\java\6-092-january-iap-2010\6-092-january-iap-2010\contents\related-resources\index.htm
+2014-04-20 15:33:09 [ main:1 ] - [ INFO ] syllabus	D:\learning\java\6-092-january-iap-2010\6-092-january-iap-2010\contents\syllabus\index.htm
+2014-04-20 15:35:09 [ main:0 ] - [ INFO ] Course Home	D:\learning\java\6-092-january-iap-2010\6-092-january-iap-2010\contents\index.htm
+2014-04-20 15:35:09 [ main:0 ] - [ INFO ] assignments	D:\learning\java\6-092-january-iap-2010\6-092-january-iap-2010\contents\assignments\index.htm
+2014-04-20 15:35:09 [ main:0 ] - [ INFO ] lecture-notes	D:\learning\java\6-092-january-iap-2010\6-092-january-iap-2010\contents\lecture-notes\index.htm
+2014-04-20 15:35:09 [ main:0 ] - [ INFO ] related-resources	D:\learning\java\6-092-january-iap-2010\6-092-january-iap-2010\contents\related-resources\index.htm
+2014-04-20 15:35:09 [ main:0 ] - [ INFO ] syllabus	D:\learning\java\6-092-january-iap-2010\6-092-january-iap-2010\contents\syllabus\index.htm
